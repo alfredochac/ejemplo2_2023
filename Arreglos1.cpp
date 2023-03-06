@@ -8,6 +8,7 @@
  //Nota:  			RELACION ENTRE PUNTEROS Y ARREGLOS
 ****************************************************************************/
 #include <stdio.h>
+#define GIT 1
 
 /************************************************
     PROTOTIPOS DE FUNCIONES
