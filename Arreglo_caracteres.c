@@ -1,5 +1,6 @@
 #include <conio.h>
 #include <stdio.h>
+#define GIT 2
 char al[20];
 int x;
 int main()
